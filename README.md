@@ -6,20 +6,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **BEng (Hons) Software Engineering at IIT**
-  
-- 📫 How to reach me ****
-  
-- 🔭 I’m currently working on a **Motion Detection Alarm System**.
-
-- 🌱 I’m currently learning about **The Neural Network**.
-
-- 👨‍💻 All of my projects are available at .....................
 
 - 💬 Ask me about **Java, Python, PHP and Node.js**
 
-- 📫 How to reach me ****
-
-- ⚡ Fun fact: ****
+- ⚡ Fun fact: I'm a gamer
 
 <br>
 <br>
