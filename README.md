@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Python, PHP and Node.js**
 
-- 📫 How to reach me **savinpathirana@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact: ****
 
